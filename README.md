@@ -1,6 +1,5 @@
-# Eric Huang Personal Portfolio Website 🧑🏻‍💻
+# NEERAJ MEENA Personal Portfolio Website 🧑🏻‍💻
 
-https://erichuang.art
 
 A super clean personal portfolio website, built with:
 
@@ -9,4 +8,4 @@ A super clean personal portfolio website, built with:
 - Framer-Motion
 - Shadcn/ui
 
-![Screenshot](./screenshot.jpg)
+
