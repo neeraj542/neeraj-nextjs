@@ -1,3 +1,3 @@
-TODO: Contact in Navbar
-TODO: Image of Swift Spend 
+TODO: Add certifications
+TODO: update hero section
 TODO: 
