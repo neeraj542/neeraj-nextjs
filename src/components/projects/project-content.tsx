@@ -44,7 +44,7 @@ export const projectsContent: projectData[] = [
     image: {
       src: "/RoomFit.png",
     },
-    title: "RoomFit",
+    title: "RoomieConnect",
     header: "A Website for Roomie Finders",
     description:
       "RoomFit aims to simplify the process of finding a roommate by providing a platform where users can find houses with a vacancy in it, posted by people looking for a roommate.",
@@ -57,10 +57,10 @@ export const projectsContent: projectData[] = [
       "MongoDB",
       "JWT",
       "bCrypt",
-      "Leaflet"
+      "Leaflet API"
     ],
     link: {
-      github: "https://github.com/neeraj542/RoomFit",
+      github: "https://github.com/neeraj542/RoomieConnect",
       youtube: "",
       live: "https://roomfit.github.io",
     },
